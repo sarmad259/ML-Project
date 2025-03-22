@@ -1,79 +1,53 @@
-Previsio
+# **Previsio** 🚀  
+_An AI-powered Streamlit app for data preprocessing, visualization, and model training._  
 
-An AI-powered Streamlit app for data preprocessing, visualization, and model training.
+## 🌟 Overview  
+**Previsio** is an AI-driven **machine learning automation tool** designed to simplify data preprocessing, visualization, and model training. Built using **Streamlit**, it provides an intuitive interface for users to:  
+✅ Upload datasets  
+✅ Detect and remove outliers  
+✅ Preprocess data  
+✅ Visualize insights  
+✅ Train and evaluate ML models  
 
-🚀 Overview
+## 🔥 Features  
+- 📂 **Dataset Upload** – Supports CSV files  
+- 🔍 **Outlier Detection & Handling** – Uses Z-score with options for trimming/capping  
+- ⚙️ **Preprocessing Pipeline** – Automatically detects numerical and categorical columns  
+- 📊 **Data Visualization** – Generates heatmaps and interactive graphs  
+- 🤖 **Model Training** – Supports:  
+  - **Decision Tree** 🌳  
+  - **Random Forest** 🌲  
+  - **Linear Regression** 📈  
+  - **SVR** ⚡  
+  - **AdaBoost** 🚀  
+- 🎨 **UI Enhancements** – Stylish animations and dynamic interactions  
 
-Previsio is an interactive machine learning workflow automation tool built with Streamlit. It enables users to upload datasets, preprocess data, visualize key insights, detect and handle outliers, and train ML models—all in a simple, user-friendly web interface.
+## ⚙️ Tech Stack  
+- **Frontend:** Streamlit  
+- **Backend:** Python  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
+- **Styling:** Custom HTML & CSS  
 
-📌 Features
-
-📂 Dataset Upload: Easily upload and explore CSV datasets.
-
-🔍 Outlier Detection & Removal: Automatically detects outliers using Z-score and provides trimming/capping options.
-
-⚙️ Preprocessing Pipeline: Detects numerical and categorical columns, applies necessary transformations.
-
-📊 Data Visualization: Generates correlation heatmaps and insightful graphs.
-
-🤖 Machine Learning Model Training:
-
-Supports Decision Tree, Random Forest, Linear Regression, SVR, and AdaBoost.
-
-Auto-detects or allows manual selection of target variables.
-
-Performs hyperparameter tuning and performance evaluation.
-
-🎭 Smooth UI Animations: Includes a stylish UI with animations and dynamic interactions.
-
-🛠️ Tech Stack
-
-Frontend: Streamlit
-
-Backend: Python
-
-Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-
-UI Enhancements: HTML/CSS Styling
-
-📌 Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/previsio.git
-cd previsio
-
-Install dependencies:
-
+## 📌 Installation  
+2️⃣ Install dependencies
+bash
+Copy code
 pip install -r requirements.txt
-
-Run the app:
-
+3️⃣ Run the app
+bash
+Copy code
 streamlit run app.py
+🚀 How to Use
+1️⃣ Upload your dataset in CSV format
+2️⃣ Explore and clean your data
+3️⃣ Detect and handle outliers
+4️⃣ Preprocess and transform data
+5️⃣ Visualize data insights
+6️⃣ Train an ML model and evaluate performance
 
-🎯 Usage
-
-Upload a CSV dataset.
-
-View and explore the dataset.
-
-Detect and handle outliers.
-
-Preprocess data (encoding, scaling, etc.).
-
-Visualize correlations and insights.
-
-Train and evaluate a machine learning model.
+🤝 Contributors
+## 🤝 **Contributors**  
+- [Sarmad259](https://github.com/sarmad259) – Creator & Developer  
+- [Ubaid](https://github.com/UBAID0315) – Contributor & Partner  
 
 
-🔗 Contributing
-
-Contributors
-
-Sarmad259 - Creator & Developer
-
-Ubaid -  Creator & Developer
-
-📜 License
-
-This project is licensed under the MIT License.
