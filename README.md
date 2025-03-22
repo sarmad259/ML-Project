@@ -38,12 +38,12 @@ bash
 Copy code
 streamlit run app.py
 🚀 How to Use
-1️⃣ Upload your dataset in CSV format
-2️⃣ Explore and clean your data
-3️⃣ Detect and handle outliers
-4️⃣ Preprocess and transform data
-5️⃣ Visualize data insights
-6️⃣ Train an ML model and evaluate performance
+-1️⃣ Upload your dataset in CSV format
+-2️⃣ Explore and clean your data
+-3️⃣ Detect and handle outliers
+-4️⃣ Preprocess and transform data
+-5️⃣ Visualize data insights
+-6️⃣ Train an ML model and evaluate performance
 
 🤝 Contributors
 ## 🤝 **Contributors**  
