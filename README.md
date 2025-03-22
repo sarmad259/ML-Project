@@ -29,21 +29,23 @@ _An AI-powered Streamlit app for data preprocessing, visualization, and model tr
 - **Styling:** Custom HTML & CSS  
 
 ## 📌 Installation  
-2️⃣ Install dependencies
-bash
-Copy code
-pip install -r requirements.txt
-3️⃣ Run the app
-bash
-Copy code
-streamlit run app.py
-🚀 How to Use
--1️⃣ Upload your dataset in CSV format
--2️⃣ Explore and clean your data
--3️⃣ Detect and handle outliers
--4️⃣ Preprocess and transform data
--5️⃣ Visualize data insights
--6️⃣ Train an ML model and evaluate performance
+Follow these steps to install and run **Previsio**:  
+
+## 📌 Installation  
+Follow these steps to install and run **Previsio**:  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/your-username/previsio.git
+   cd previsio
+   
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the app:
+   ```bash
+   streamlit run app.py
 
 🤝 Contributors
 ## 🤝 **Contributors**  
