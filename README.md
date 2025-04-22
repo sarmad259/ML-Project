@@ -50,6 +50,6 @@ Follow these steps to install and run **Previsio**:
 🤝 Contributors
 ## 🤝 **Contributors**  
 - [Sarmad259](https://github.com/sarmad259) – Creator & Developer  
-- [Ubaid](https://github.com/UBAID0315) – Contributor & Partner  
+- [Ubaid](https://github.com/UBAID0315) – Creator & Developer  
 
 
